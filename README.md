@@ -9,4 +9,10 @@ click the button below to go directly there
 
 [![imagekit](https://ik.imagekit.io/anwarachilles/tiktok.svg?updatedAt=1710358751684)](https://www.tiktok.com/@anwar_achilles)
 
+
+## Support me on:
+- [KO-FI](https://ko-fi.com/anwarachilles)
+- [TRAKTEER](https://trakteer.id/anwarachilles/link)
+- [KARYAKARSA](https://karyakarsa.com/anwarachilles)
+
 thank you for your support
