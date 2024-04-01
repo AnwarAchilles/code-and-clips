@@ -13,6 +13,5 @@ click the button below to go directly there
 ## Support me on:
 - [KO-FI](https://ko-fi.com/anwarachilles)
 - [TRAKTEER](https://trakteer.id/anwarachilles/link)
-- [KARYAKARSA](https://karyakarsa.com/anwarachilles)
 
 thank you for your support
