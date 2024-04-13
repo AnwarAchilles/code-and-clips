@@ -10,7 +10,7 @@
 - [KARYAKARSA]()
 
 #### source code:
-- [GIHUTB]()
+- [GIHUTB](https://github.com/AnwarAchilles/code-and-clips/tree/main/Infinity%20Scroll%20with%20JAVASCRIPT%20IntersectionObserver)
 
 #### Language usage:
 HTML, CSS, JAVASCRIPT
