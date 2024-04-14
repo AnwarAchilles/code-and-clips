@@ -7,7 +7,6 @@
 #### support:
 - [KO-FI](https://ko-fi.com/anwarachilles)
 - [TRAKTEER](https://trakteer.id/anwarachilles/link)
-- [KARYAKARSA](https://karyakarsa.com/anwarachilles)
 
 #### source code:
 - [GIHUTB](https://github.com/AnwarAchilles/code-and-clips/tree/main/Floating%20input%20with%20HTML%20%26%20CSS)

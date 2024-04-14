@@ -7,7 +7,6 @@
 #### support:
 - [KO-FI](https://ko-fi.com/anwarachilles)
 - [TRAKTEER](https://trakteer.id/anwarachilles/link)
-- [KARYAKARSA](https://karyakarsa.com/anwarachilles)
 
 #### source code:
 - [GIHUTB](https://github.com/AnwarAchilles/code-and-clips/tree/main/Debounce%20Effect%20input%20with%20JAVASCRIPT)
